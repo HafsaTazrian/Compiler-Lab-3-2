@@ -1,0 +1,11 @@
+
+Token Counts:
+Keywords: 6
+Identifiers: 10
+Numbers: 2
+Symbols: 5
+Logical Operators: 1
+Math Operators: 2
+New line: 15
+Comments: 2
+Unknowns: 31

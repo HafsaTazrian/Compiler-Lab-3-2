@@ -1,0 +1,19 @@
+represent integer 42
+~ This is a comment
+yell
+~~ This is a start of multi-line comment
+some code here
+~~ This is the end of multi-line comment
+==
+display
+normal 100.5
+pull
+init
+hii
+^
+$$
+@
+($
+ি
+ি্
+্ি্ি
